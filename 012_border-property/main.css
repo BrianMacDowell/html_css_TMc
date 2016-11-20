@@ -1,0 +1,23 @@
+/*ruleset to change properties of divs on html sheet*/
+div {
+    width: 100px;
+    height: 100px;
+    border: 1px solid aqua;
+}
+
+/*selecting img and classes to apply different values*/
+img {
+    border: 10px groove yellowgreen ;
+}
+
+.dogone {
+    border: 10px dashed orangered;
+}
+
+.dogtwo {
+    border: 10px dotted blueviolet;
+}
+
+.dogthree {
+    border: 10px double forestgreen;
+}
