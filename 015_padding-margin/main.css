@@ -1,0 +1,26 @@
+div {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    border-radius: 10px;
+    display: inline-block;
+}
+/*added 20px from border to inside img(padding) 40px from outside of border(margin)*/
+img {
+    border: 10px groove orangered;
+    border-radius: 100%;
+    padding: 20px;
+    margin: 40px;
+}
+
+.dogone {
+    border: 10px dashed aquamarine;
+}
+
+.dogtwo {
+    border: 10px dotted darkslateblue;
+}
+
+.dogthree {
+    border: 10px double lime;
+}
