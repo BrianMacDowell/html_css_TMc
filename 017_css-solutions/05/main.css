@@ -1,0 +1,10 @@
+div {
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    border-radius: 100%;
+    border: 20px groove chartreuse;
+    background-image: url("../../000_dog/cool_dog.jpg");
+    background-size:cover ;
+    background-repeat: no-repeat;
+}
