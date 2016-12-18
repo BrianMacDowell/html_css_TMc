@@ -1,0 +1,3 @@
+div ~  p{
+    color: red;  /* p siblings that follow (after div*/
+}
