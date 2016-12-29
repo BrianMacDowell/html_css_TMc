@@ -1,0 +1,15 @@
+h1 {
+    color: red;
+}
+
+#emph {
+    color: blue;
+}
+
+.cowboy {                               /* the solution will be blue...since the id is higher in specificity than the                                            rest. */
+    color: green;
+}
+
+.emphasize {
+    color: yellow;
+}

@@ -1,0 +1,19 @@
+h1 {
+    color: red;
+    border: 1px solid black;
+    font-style: italic;
+}
+
+/*#emph {*/
+/*color: blue;*/
+/*}*/
+
+.cowboy {
+    color: green;
+}
+
+.emphasize {
+    color: yellow;
+}
+
+/* yellow is the solution...#emph is greyed out....cowboy and .emphasize are equal....emphasize was last so it wins */
