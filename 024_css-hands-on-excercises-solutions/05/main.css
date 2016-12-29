@@ -1,0 +1,6 @@
+.blue{
+    color: blue;
+}
+[target=_blank] {
+    color: darkorange;               /* attribute wins..they're equal so last listed wins */
+}
